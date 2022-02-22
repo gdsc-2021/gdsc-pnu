@@ -7,7 +7,7 @@ import Members from "../views/Members.vue";
 const routes = [
   {
     path: "/",
-    redirect: "/home",
+    component: Main,
   },
   {
     path: "/home",
