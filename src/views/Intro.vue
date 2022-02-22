@@ -3,6 +3,86 @@
     <img class="wave1" alt="wave1" src="../assets/4.png" />
     <img class="wave2" alt="wave2" src="../assets/intro/12.svg" />
     <img class="wave3" alt="wave3" src="../assets/intro/5.svg" />
+    <div class="wrapper1">
+      <div class="top-left">
+        <img
+          src="https://lh6.googleusercontent.com/6fEtV-972KpdGbsuhYLl7HB-H67rvo8PdUmJaGnzRpx50_cjFMorgfoCEhx9GiURwXNGpwU6VSY0sNJWJUXa4_0=w16383"
+          alt="img"
+        />
+      </div>
+      <div class="top-right">
+        <span class="title">안녕하세요<br /></span>
+        <span class="title"
+          >Google Developer Students Club 부산대학교(Pusan National
+          Univ.)입니다.<br /><br
+        /></span>
+        <span class="body"
+          >이곳에는 Google Developer Students Club 소개및 GDSC PNU 소개가
+          들어갈예정입니다~! 어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구 어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구
+          어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구 어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구 어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구</span
+        >
+      </div>
+    </div>
+    <div class="wrapper1">
+      <div class="top-left">
+        <img
+          src="https://lh6.googleusercontent.com/6fEtV-972KpdGbsuhYLl7HB-H67rvo8PdUmJaGnzRpx50_cjFMorgfoCEhx9GiURwXNGpwU6VSY0sNJWJUXa4_0=w16383"
+          alt="img"
+        />
+      </div>
+      <div class="top-right">
+        <span class="title">안녕하세요<br /></span>
+        <span class="title"
+          >Google Developer Students Club 부산대학교(Pusan National
+          Univ.)입니다.<br /><br
+        /></span>
+        <span class="body"
+          >이곳에는 Google Developer Students Club 소개및 GDSC PNU 소개가
+          들어갈예정입니다~! 어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구 어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구
+          어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구 어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구 어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구</span
+        >
+      </div>
+    </div>
+    <div class="wrapper1">
+      <div class="top-left">
+        <img
+          src="https://lh6.googleusercontent.com/6fEtV-972KpdGbsuhYLl7HB-H67rvo8PdUmJaGnzRpx50_cjFMorgfoCEhx9GiURwXNGpwU6VSY0sNJWJUXa4_0=w16383"
+          alt="img"
+        />
+      </div>
+      <div class="top-right">
+        <span class="title">안녕하세요<br /></span>
+        <span class="title"
+          >Google Developer Students Club 부산대학교(Pusan National
+          Univ.)입니다.<br /><br
+        /></span>
+        <span class="body"
+          >이곳에는 Google Developer Students Club 소개및 GDSC PNU 소개가
+          들어갈예정입니다~! 어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구 어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구
+          어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구 어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구 어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구 소개어쩌구저쩌구저쩌구
+          소개어쩌구저쩌구저쩌구</span
+        >
+      </div>
+    </div>
+    <div class="wrapper2"></div>
+    <div class="wrapper3"></div>
   </div>
 </template>
 
@@ -22,7 +102,7 @@ export default {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  align-content: center;
+  align-items: center;
 }
 
 .wave1 {
@@ -38,6 +118,7 @@ export default {
   top: 50%;
   left: 50%;
   transform: translate(-50%, 27%);
+  z-index: 0;
 }
 
 .wave3 {
@@ -46,5 +127,40 @@ export default {
   width: 24%;
   bottom: -500px;
   right: -30px;
+}
+
+.wrapper1 {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin-top: 227px;
+  z-index: 1;
+}
+
+.wrapper1 .top-left img {
+  width: 555px;
+  height: 303px;
+}
+
+.wrapper1 .top-right {
+  display: flex;
+  flex-direction: column;
+  margin-left: 87px;
+}
+
+.wrapper1 .top-right .title {
+  font-family: AppleSDGothicNeo;
+  font-size: 30px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.wrapper1 .top-right .body {
+  text-align: left;
 }
 </style>
