@@ -21,7 +21,7 @@
         <img alt="line" src="../assets/1.svg" />
       </div>
     </div>
-    <img id="bottom-wave" alt="12" src="../assets/12.svg" />
+    <img id="bottom-wave" alt="12" src="../assets/144.svg" />
   </div>
 </template>
 
@@ -50,12 +50,15 @@ export default {
   flex-direction: column;
   align-items: center;
   width: 100%;
+  min-height: 477px;
+  min-width: 1920px;
 }
 
 .wave1 {
   position: absolute;
-  height: 45%;
-  width: 24%;
+  height: 403px;
+  max-height: 391px;
+  max-width: 403px;
   top: 0;
   left: 0;
 }
@@ -65,6 +68,7 @@ export default {
   align-items: flex-end;
   padding-top: 250px;
   width: 80%;
+  /* min-width: 1536px; */
 }
 
 .middle span {
@@ -94,6 +98,7 @@ export default {
   /* margin-top: 10%; */
   justify-content: end;
   align-items: center;
+  min-width: 1920px;
 }
 
 .wrapper2 .item {
@@ -103,7 +108,8 @@ export default {
 .intro {
   display: flex;
   justify-content: end;
-  padding-right: 150px;
+  padding-right: 120px;
+  padding-bottom: 25px;
 }
 .intro a {
   width: 200px;
@@ -134,9 +140,11 @@ export default {
 }
 
 #bottom-wave {
-  position: fixed;
-  right: 0;
+  position: absolute;
+  right: -44px;
   bottom: 0;
-  transform: translate(10%, 25%);
+  width: 1109.1px;
+  height: 287.8px;
+  transform: translate(0%, 0%);
 }
 </style>

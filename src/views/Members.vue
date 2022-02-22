@@ -98,8 +98,8 @@ export default {
   data() {
     return {
       btnState: false,
-      cards: data1,
-      memeberNumbr: 0,
+      cards: data5,
+      memeberNumbr: 5,
     };
   },
   components: {},

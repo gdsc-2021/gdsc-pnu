@@ -29,7 +29,7 @@ export default {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 60px;
+  height: 90px;
   padding: 19px 100px 9px 100px;
   object-fit: contain;
   box-shadow: 0 5px 6px 0 rgba(0, 0, 0, 0.16);
@@ -38,6 +38,7 @@ export default {
   position: absolute;
   left: 0;
   width: 100%;
+  min-width: 1670px;
   z-index: 2;
 }
 .header .logo {
@@ -73,6 +74,7 @@ export default {
   background-color: transparent;
   cursor: pointer;
   width: auto;
+  min-width: 160px;
   height: 24px;
   font-family: "AppleSDGothicNeo";
   font-size: 20px;
@@ -83,7 +85,6 @@ export default {
   letter-spacing: normal;
   text-align: center;
   color: #5c5c5c;
-  padding-right: 5%;
   text-decoration: none;
 }
 

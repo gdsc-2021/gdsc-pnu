@@ -1,26 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1996.151" height="361.271" viewBox="0 0 1996.151 361.271">
+<svg xmlns="http://www.w3.org/2000/svg" width="1149.646" height="403.266" viewBox="0 0 1149.646 403.266">
     <defs>
-        <filter id="48q6d7kisa" x="0" y="25.813" width="1996.151" height="335.458" filterUnits="userSpaceOnUse">
+        <filter id="we33p3t5wa" x="0" y="25.813" width="1149.646" height="335.454" filterUnits="userSpaceOnUse">
             <feOffset dx="5" dy="5"/>
             <feGaussianBlur stdDeviation="3" result="blur"/>
             <feFlood flood-opacity=".161"/>
             <feComposite operator="in" in2="blur"/>
             <feComposite in="SourceGraphic"/>
         </filter>
-        <filter id="z35j10bl6b" x="39.192" y="0" width="1956.959" height="312.271" filterUnits="userSpaceOnUse">
+        <filter id="qj3rqprb3b" x="22.424" y="0" width="1127.222" height="312.267" filterUnits="userSpaceOnUse">
             <feOffset dx="5" dy="3"/>
             <feGaussianBlur stdDeviation="3" result="blur-2"/>
             <feFlood flood-opacity=".161"/>
             <feComposite operator="in" in2="blur-2"/>
             <feComposite in="SourceGraphic"/>
         </filter>
+        <filter id="grbgbmpbnc" x="0" y="67.813" width="1149.646" height="335.454" filterUnits="userSpaceOnUse">
+            <feOffset dx="5" dy="5"/>
+            <feGaussianBlur stdDeviation="3" result="blur-3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur-3"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
     </defs>
     <g data-name="그룹 12">
-        <g style="filter:url(#48q6d7kisa)" transform="translate(.001)">
-            <path data-name="패스 4" d="M0 314.46c262.39-.209 421.26.553 573.688-20.091 273.779-37.079 426.223-105.591 561.881-156.627 42.785-16.1 83.932-30.463 126.693-41.545C1542.175 23.654 1978.069 0 1978.069 0" transform="rotate(180 991.075 172.885)" style="stroke:#4285f4;fill:none;stroke-width:3px"/>
+        <g style="filter:url(#we33p3t5wa)" transform="translate(.002)">
+            <path data-name="패스 4" d="M0 314.46c150.093-.209 240.971.553 328.163-20.091 156.608-37.079 243.81-105.591 321.409-156.627 24.474-16.1 48.011-30.463 72.471-41.545C882.161 23.654 1131.5 0 1131.5 0" transform="rotate(180 567.82 172.885)" style="stroke:#4285f4;fill:none;stroke-width:3px"/>
         </g>
-        <g style="filter:url(#z35j10bl6b)" transform="translate(.001)">
-            <path data-name="패스 3" d="M0 291.273c257.192-.194 412.914.512 562.323-18.61 268.355-34.345 417.78-97.805 550.749-145.078 41.937-14.909 82.27-28.217 124.183-38.482C1511.623 21.91 1938.881 0 1938.881 0" transform="rotate(180 991.075 149.385)" style="stroke:#fbbc2b;opacity:.5;fill:none;stroke-width:3px"/>
+        <g style="filter:url(#qj3rqprb3b)" transform="translate(.002)">
+            <path data-name="패스 3" d="M0 291.273c147.12-.194 236.2.512 321.662-18.61 153.505-34.345 238.98-97.805 315.042-145.078 23.989-14.909 47.06-28.217 71.036-38.482C864.684 21.91 1109.086 0 1109.086 0" transform="rotate(180 567.82 149.385)" style="stroke:#fbbc2b;opacity:.5;fill:none;stroke-width:3px"/>
+        </g>
+        <g style="filter:url(#grbgbmpbnc)" transform="translate(.002)">
+            <path data-name="패스 9" d="M0 314.46c150.093-.209 240.971.553 328.163-20.091 156.608-37.079 243.81-105.591 321.409-156.627 24.474-16.1 48.011-30.463 72.471-41.545C882.161 23.654 1131.5 0 1131.5 0" transform="rotate(180 567.82 193.885)" style="stroke:#b5b5b5;stroke-dasharray:5;fill:none;stroke-width:3px"/>
         </g>
     </g>
 </svg>
