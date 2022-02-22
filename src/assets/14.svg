@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67.524" height="54.059" viewBox="0 0 67.524 54.059">
+    <defs>
+        <filter id="6qdkzdvqla" x="0" y="16.524" width="63" height="20" filterUnits="userSpaceOnUse">
+            <feOffset dx="5" dy="5"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="u4lj6r3o1b" x="25.976" y="0" width="41.547" height="39.047" filterUnits="userSpaceOnUse">
+            <feOffset dx="5" dy="5"/>
+            <feGaussianBlur stdDeviation="3" result="blur-2"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur-2"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="uocfhbbhjc" x="26.964" y="14.488" width="39.571" height="39.571" filterUnits="userSpaceOnUse">
+            <feOffset dx="5" dy="5"/>
+            <feGaussianBlur stdDeviation="3" result="blur-3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur-3"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="그룹 14">
+        <g style="filter:url(#6qdkzdvqla)">
+            <path data-name="선 4" transform="translate(5 21.524)" style="stroke:#707070;stroke-width:2px;stroke-dasharray:5;fill:none;stroke-linecap:round" d="M0 0h43"/>
+        </g>
+        <g data-name="그룹 6">
+            <g style="filter:url(#u4lj6r3o1b)" transform="translate(0 .004)">
+                <path data-name="선 2" transform="translate(33.5 7.52)" style="stroke:#747272;stroke-width:5px;fill:none;stroke-linecap:round" d="m0 0 16.5 14"/>
+            </g>
+            <g style="filter:url(#uocfhbbhjc)" transform="translate(0 .004)">
+                <path data-name="선 3" transform="translate(34.5 22.02)" style="stroke:#747272;stroke-width:5px;fill:none;stroke-linecap:round" d="M14.5 0 0 14.5"/>
+            </g>
+        </g>
+    </g>
+</svg>

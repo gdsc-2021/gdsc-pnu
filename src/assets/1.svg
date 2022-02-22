@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1255.5" height="31" viewBox="0 0 1255.5 31">
+    <defs>
+        <filter id="mttp52xo3a" x="0" y="0" width="1255.5" height="31" filterUnits="userSpaceOnUse">
+            <feOffset dx="20" dy="20"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-color="#0b0b0b" flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g style="filter:url(#mttp52xo3a)">
+        <path data-name="선 1" transform="translate(1 1)" style="fill:none;stroke:#707070;stroke-linecap:round;stroke-width:2px" d="M0 0h1224.5"/>
+    </g>
+</svg>
