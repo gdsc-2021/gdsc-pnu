@@ -5,8 +5,8 @@
         <div class="dropdown">
           <button size="lg" class="btn" @click="handleBtn">
             {{ memeberNumbr }}th Members
-            <b-icon-triangle-fill
-              class="triangle--icon"
+            <div
+              class="triangle"
               :style="[
                 btnState
                   ? {
@@ -22,12 +22,16 @@
               ]"
             />
           </button>
-          <div class="dropdown-content" v-if="btnState" v-on:click="handleBtn">
-            <a href="#">1st Members</a>
-            <a href="#">2nd Members</a>
-            <a href="#">3rd Members</a>
-            <a href="#">4th Members</a>
-            <a href="#">5th Members</a>
+          <div
+            class="dropdown-content"
+            v-if="btnState"
+            v-on:click="handleBtn()"
+          >
+            <a @click="handleMemberNum(1)">1st Members</a>
+            <a @click="handleMemberNum(2)">2nd Members</a>
+            <a @click="handleMemberNum(3)">3rd Members</a>
+            <a @click="handleMemberNum(4)">4th Members</a>
+            <a @click="handleMemberNum(5)">5th Members</a>
           </div>
         </div>
       </div>
@@ -86,7 +90,7 @@
 
 <script>
 // import Card from "../components/Card.vue";
-import { data } from "./data/dummy.js";
+import { data1, data2, data3, data4, data5 } from "./data/dummy.js";
 
 export default {
   name: "Members",
@@ -94,7 +98,7 @@ export default {
   data() {
     return {
       btnState: false,
-      cards: data,
+      cards: data1,
       memeberNumbr: 0,
     };
   },
@@ -106,6 +110,27 @@ export default {
         this.btnState = false;
       } else {
         this.btnState = true;
+      }
+    },
+    handleMemberNum(v) {
+      switch (v) {
+        case 1:
+          this.cards = data1;
+          return (this.memeberNumbr = 1);
+        case 2:
+          this.cards = data2;
+          return (this.memeberNumbr = 2);
+        case 3:
+          this.cards = data3;
+          return (this.memeberNumbr = 3);
+        case 4:
+          this.cards = data4;
+          return (this.memeberNumbr = 4);
+        case 5:
+          this.cards = data5;
+          return (this.memeberNumbr = 5);
+        default:
+          return 5;
       }
     },
   },
@@ -132,7 +157,7 @@ export default {
   max-width: 1542px;
   background-color: #fff;
   padding: 20px;
-  padding-top: 200px;
+  padding-top: 120px;
 }
 
 .wave1 {
@@ -171,6 +196,7 @@ export default {
   max-width: 1542px;
   display: flex;
   padding-left: 15%;
+  padding-bottom: 140px;
 }
 
 .dropdown {
@@ -178,14 +204,25 @@ export default {
   display: inline-block;
 }
 
+.dropdown .triangle {
+  margin-left: 10px;
+  width: 0px;
+  height: 0px;
+  border-bottom: 13px solid #666666;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+}
+
 .dropdown .btn {
-  width: 239px;
+  width: 189px;
   height: 75px;
+  display: flex;
+  align-items: center;
   border-radius: 10px;
   border: solid 1px #707070;
   background-color: #fff;
   font-family: AppleSDGothicNeo;
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 300;
   font-stretch: normal;
   font-style: normal;
@@ -211,10 +248,11 @@ export default {
   overflow-y: scroll;
   overflow-x: hidden;
   padding: 10px;
-  padding-top: 67px;
+  padding-top: 147px;
 }
 
 .dropdown-content a {
+  cursor: pointer;
   width: 200px;
   height: 100px;
   font-family: "AppleSDGothicNeo";
@@ -228,6 +266,12 @@ export default {
   text-align: center;
   color: #fff;
   text-decoration: none;
+}
+.dropdown-content :not([href]):not([class]),
+a:not([href]):not([class]):hover {
+  color: inherit;
+  text-decoration: none;
+  color: #fff;
 }
 
 /* Change color of dropdown links on hover */
