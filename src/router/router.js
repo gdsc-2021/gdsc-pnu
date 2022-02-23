@@ -6,7 +6,7 @@ import Members from "../views/Members.vue";
 
 const routes = [
   {
-    path: "/",
+    path: "https://gdsc-2021.github.io/gdsc-pnu",
     component: Main,
   },
   {
@@ -24,7 +24,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory("https://gdsc-2021.github.io/gdsc-pnu"),
+  history: createWebHistory(),
   routes,
 });
 
