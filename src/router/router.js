@@ -24,7 +24,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory({ base: "https://gdsc-2021.github.io" }),
+  history: createWebHistory("https://gdsc-2021.github.io/gdsc-pnu"),
   routes,
 });
 
