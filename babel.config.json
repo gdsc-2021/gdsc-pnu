@@ -1,0 +1,4 @@
+{
+  "targets": { "node": "current" },
+  "presets": ["@vue/cli-plugin-babel/preset"]
+}
