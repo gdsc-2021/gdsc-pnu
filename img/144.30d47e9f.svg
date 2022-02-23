@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1127.222" height="312.267" viewBox="0 0 1127.222 312.267">
+    <defs>
+        <filter id="0qvjmj1oba" x="279.108" y="25.813" width="848.115" height="282.43" filterUnits="userSpaceOnUse">
+            <feOffset dx="5" dy="5"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="sngih3peyb" x="0" y="0" width="1127.222" height="312.267" filterUnits="userSpaceOnUse">
+            <feOffset dx="5" dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-2"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur-2"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="eoqw0ir8wc" x="380.152" y="67.813" width="747.07" height="241.766" filterUnits="userSpaceOnUse">
+            <feOffset dx="5" dy="5"/>
+            <feGaussianBlur stdDeviation="3" result="blur-3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur-3"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="그룹 144">
+        <g style="filter:url(#0qvjmj1oba)" transform="translate(0 .003)">
+            <path data-name="패스 4" d="M0 317.285c150.093-.211 240.971.558 328.163-20.272C484.771 259.6 571.973 190.474 649.572 138.98c24.474-16.241 48.011-30.737 72.471-41.918 34.62-15.826 63.532-26.67 82.921-33.349 15.624-5.382 24.747-7.912 24.747-7.912" transform="rotate(180 556.61 174.3)" style="stroke:#4285f4;fill:none;stroke-width:3px"/>
+        </g>
+        <g style="filter:url(#sngih3peyb)" transform="translate(0 .003)">
+            <path data-name="패스 3" d="M0 291.273c147.12-.194 236.2.512 321.662-18.61 153.505-34.345 238.98-97.805 315.042-145.078 23.989-14.909 47.06-28.217 71.036-38.482C864.684 21.91 1109.086 0 1109.086 0" transform="rotate(180 556.61 149.385)" style="stroke:#fbbc2b;opacity:.5;fill:none;stroke-width:3px"/>
+        </g>
+        <g style="filter:url(#eoqw0ir8wc)" transform="translate(0 .003)">
+            <path data-name="패스 9" d="M0 314.46c150.093-.209 240.971.553 328.163-20.091 156.608-37.079 243.81-105.591 321.409-156.627 24.474-16.1 48.011-30.463 72.471-41.545" transform="rotate(180 556.61 193.885)" style="stroke:#b5b5b5;stroke-dasharray:5;fill:none;stroke-width:3px"/>
+        </g>
+    </g>
+</svg>
