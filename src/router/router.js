@@ -6,7 +6,7 @@ import Members from "../views/Members.vue";
 
 const routes = [
   {
-    path: "https://gdsc-2021.github.io/gdsc-pnu",
+    path: "/",
     component: Main,
   },
   {
