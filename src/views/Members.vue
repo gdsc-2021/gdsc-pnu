@@ -86,12 +86,13 @@
       </div>
     </div>
   </div>
+  <Footer />
 </template>
 
 <script>
 // import Card from "../components/Card.vue";
 import { data1, data2, data3, data4, data5 } from "./data/dummy.js";
-
+import Footer from "./Footer.vue";
 export default {
   name: "Members",
   props: {},
@@ -102,7 +103,7 @@ export default {
       memeberNumbr: 5,
     };
   },
-  components: {},
+  components: { Footer },
   methods: {
     handleBtn() {
       console.log(this.btnState);
@@ -140,6 +141,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .root {
+  position: relative;
   width: 100%;
   max-width: 2560px;
   display: flex;
@@ -288,6 +290,16 @@ a:not([href]):not([class]):hover {
   box-shadow: 10px 10px 30px 0 rgba(0, 0, 0, 0.16);
   background-color: #fff;
   margin: 30px;
+  animation: fadein 1s;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 .card-item-wrapper {
   width: auto;

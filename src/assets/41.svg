@@ -1,0 +1,16 @@
+<svg data-name="그룹 41" xmlns="http://www.w3.org/2000/svg" width="321" height="317" viewBox="0 0 321 317">
+    <g data-name="그룹 43">
+        <ellipse data-name="타원 4" cx="160.5" cy="158.5" rx="160.5" ry="158.5" style="fill:#fff"/>
+        <g data-name="그룹 42">
+            <g data-name="그룹 1">
+                <path data-name="패스 2" d="m8.664 0 46.447.241a8.793 8.793 0 0 1 8.754 8.7 8.574 8.574 0 0 1-8.665 8.613l-46.446-.241A8.793 8.793 0 0 1 0 8.611 8.574 8.574 0 0 1 8.664 0z" transform="rotate(150 95.961 89.168)" style="fill:#fbbc04"/>
+                <path data-name="패스 10" d="M8.753.25 55.182 0a8.57 8.57 0 0 1 8.659 8.613 8.8 8.8 0 0 1-8.753 8.707l-46.43.25A8.57 8.57 0 0 1 0 8.957 8.8 8.8 0 0 1 8.753.25z" transform="rotate(-148 125.825 32.932)" style="fill:#34a853"/>
+            </g>
+            <g data-name="그룹 2">
+                <path data-name="패스 11" d="m8.664 0 46.447.241a8.793 8.793 0 0 1 8.754 8.7 8.574 8.574 0 0 1-8.665 8.613l-46.446-.241A8.793 8.793 0 0 1 0 8.611 8.574 8.574 0 0 1 8.664 0z" transform="rotate(-30 255.169 -126.08)" style="fill:#ea4335"/>
+                <path data-name="패스 12" d="M8.753.25 55.182 0a8.57 8.57 0 0 1 8.659 8.613 8.8 8.8 0 0 1-8.753 8.707l-46.43.25A8.57 8.57 0 0 1 0 8.957 8.8 8.8 0 0 1 8.753.25z" transform="rotate(32 -124.203 235.26)" style="fill:#4285f4"/>
+            </g>
+        </g>
+        <text data-name="Google Developer Students Club Pusan National Univ." transform="translate(158.781 183.804)" style="fill:#707070;font-size:19px;font-family:AppleSDGothicNeo-Bold,Apple SD Gothic Neo;font-weight:700"><tspan x="-137.009" y="0">Google Developer Students Club</tspan><tspan x="-87.59" y="23">Pusan National Univ.</tspan></text>
+    </g>
+</svg>

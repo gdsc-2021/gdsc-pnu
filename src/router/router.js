@@ -3,6 +3,7 @@ import { createRouter, createWebHistory } from "vue-router";
 import Main from "../views/Main.vue";
 import Intro from "../views/Intro.vue";
 import Members from "../views/Members.vue";
+import Activity from "../views/Activity.vue";
 
 const routes = [
   {
@@ -20,6 +21,10 @@ const routes = [
   {
     path: "/members",
     component: Members,
+  },
+  {
+    path: "/activities",
+    component: Activity,
   },
 ];
 
